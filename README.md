@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Synechron Techonologies<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn - @niyankjain<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably playing games with my friends
+🔭 I’m currently working at Synechron Techonologies<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn - @niyankjain<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am chatting my with my friends
 
 
 # 💻 Tech Stack:
