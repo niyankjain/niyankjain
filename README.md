@@ -1,18 +1,102 @@
-# 💫 About Me:
-🔭 I’m currently working at Synechron Techonologies<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn - @niyankjain<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am chatting my with my friends
+# Hi, I'm Niyank Bam 👋
 
+## 🚀 Backend Architect | Java | Distributed Systems | Event-Driven Architecture
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niyankjain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niyankjain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niyankjain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Senior Backend Engineer with 7+ years of experience building scalable, high-performance backend systems across Telecom and Banking domains.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niyankjain&limit=1&theme=dark&combine_all_yearly_contributions=true)
+I specialize in designing production-grade microservices, distributed systems, and real-time event-driven architectures using Java and Kafka.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=niyankjain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏗️ What I Do
+
+- Design scalable backend architectures
+- Build event-driven systems using Kafka
+- Develop high-performance REST APIs with Spring Boot
+- Work on distributed system design & optimization
+- Lead technical discussions & architecture decisions
+- End-to-end integration for enterprise clients
+
+---
+
+## 💼 Professional Experience
+
+### Rakuten Symphony
+- Worked on telecom-scale backend systems
+- Built real-time Field Force tracking solutions
+- Designed Kafka-based event streaming pipelines
+- Improved system performance & scalability
+
+### Synechron
+- Worked in Banking & Trading systems
+- Developed reporting & settlement applications
+- Migrated Java 8 applications to Java 17
+- Production support & client-facing technical discussions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java 8–21
+
+**Backend:**  
+Spring Boot 3, Spring Data JPA, Hibernate
+
+**Event Streaming:**  
+Apache Kafka
+
+**Database:**  
+MySQL, SQL Optimization
+
+**Architecture:**  
+Microservices, REST APIs, Distributed Systems, System Design
+
+**Cloud & DevOps:**  
+AWS (Learning & Implementing), Docker, Git
+
+---
+
+## 📌 Key Projects
+
+### 🔹 Field Force Manager (FFM)
+A real-time tracking and management system for field engineers.
+- Live location tracking
+- Event streaming via Kafka
+- Scalable backend architecture
+- Optimized database storage
+
+### 🔹 Naming Management Utility
+High-performance naming pattern generator.
+- Generates 100+ patterns per second
+- Used across multiple dependent systems
+- Built using Java, Spring Boot, Hibernate
+
+---
+
+## 📚 Currently Focused On
+
+- Advanced System Design
+- High-Scale Backend Architecture
+- Cloud-Native Systems (AWS)
+- Performance Engineering
+- Transitioning towards Staff/Lead Backend Roles
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyankjain&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborating on:
+- Backend architecture discussions
+- System design problems
+- High-performance distributed systems
+
+---
+
+> "Build systems that scale. Write code that lasts."
