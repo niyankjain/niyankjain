@@ -77,23 +77,28 @@ Microservices, REST APIs, Distributed Systems, System Design
 AWS (Learning & Implementing), Docker, Git
 
 ---
+## 📚 Currently Focused On
 
-## 🎯 What I Focus On
-
-- Designing scalable backend architectures
-- Event-driven systems & asynchronous processing
-- Performance tuning & high-throughput systems
-- Clean architecture & maintainable codebases
-- Technical leadership & architectural decision-making
+- Advanced System Design
+- High-Scale Backend Architecture
+- Cloud-Native Systems
+- Performance Engineering
+- Transitioning towards Staff/Lead Backend Roles
 
 ---
 
-## 📚 Currently Advancing In
+## 📊 GitHub Stats
 
-- Advanced System Design
-- Cloud-Native Architecture
-- High-Scale Distributed Systems
-- Transitioning toward Staff/Lead Backend Roles
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niyankjain&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborating on:
+- Backend architecture discussions
+- System design problems
+- High-performance distributed systems
 
 ---
 
