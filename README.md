@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Architect | Java | Distributed Systems | Event-Driven Architecture
 
-Senior Backend Engineer with 8+ years of experience designing and building scalable, high-performance backend systems across Telecom and Banking domains.
+Senior Backend Engineer with 7+ years of experience designing and building scalable, high-performance backend systems across Telecom and Banking domains.
 
 I specialize in architecting distributed systems, event-driven microservices, and high-throughput backend platforms using Java and Kafka.
 
