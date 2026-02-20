@@ -21,17 +21,17 @@ I specialize in designing production-grade microservices, distributed systems, a
 
 ## 💼 Professional Experience
 
-### Rakuten Symphony
-- Worked on telecom-scale backend systems
-- Built real-time Field Force tracking solutions
-- Designed Kafka-based event streaming pipelines
-- Improved system performance & scalability
-
 ### Synechron
 - Worked in Banking & Trading systems
 - Developed reporting & settlement applications
 - Migrated Java 8 applications to Java 17
 - Production support & client-facing technical discussions
+
+### Rakuten Symphony
+- Worked on telecom-scale backend systems
+- Built real-time Field Force tracking solutions
+- Designed Kafka-based event streaming pipelines
+- Improved system performance & scalability
 
 ---
 
